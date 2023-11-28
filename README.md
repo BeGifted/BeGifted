@@ -1,4 +1,4 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
 <!--
 **BeGifted/BeGifted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+-   🔭 I’m BeGifted, a postgraduate in SE learning in Southeast University.
+-   🌱 I’m currently learning server framework and distributed system.
+-   😄 I’m currently using C++ and Python.
+-   💬 Ask me about anything related to program.
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=BeGifted&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
